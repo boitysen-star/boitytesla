@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 40">
+    <g fill="#171a20">
+        <!-- T: split top bar + center stem -->
+        <rect x="0" y="0" width="13" height="3"/>
+        <rect x="19" y="0" width="13" height="3"/>
+        <rect x="14" y="0" width="4" height="40"/>
+
+        <!-- E: three horizontal bars, no vertical stem -->
+        <rect x="48" y="0" width="30" height="3"/>
+        <rect x="48" y="18" width="24" height="3"/>
+        <rect x="48" y="37" width="30" height="3"/>
+
+        <!-- L -->
+        <rect x="140" y="0" width="4" height="40"/>
+        <rect x="140" y="37" width="28" height="3"/>
+
+        <!-- A: two angled strokes + crossbar -->
+        <polygon points="196,0 202,0 190,40 184,40"/>
+        <polygon points="206,0 212,0 224,40 218,40"/>
+        <rect x="195" y="22" width="18" height="3"/>
+    </g>
+    <!-- S: serpentine stroke -->
+    <path d="M 124 3 L 97 3 L 97 20 L 124 20 L 124 37 L 94 37" fill="none" stroke="#171a20" stroke-width="3"/>
+</svg>
